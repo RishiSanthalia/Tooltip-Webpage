@@ -1,0 +1,46 @@
+.tooltipPlacementX {
+   position: absolute;
+   top: 38px;
+   left: 0px;
+   width: 45%;
+}
+
+.tooltipPlacementX1 {
+   position: absolute;
+   bottom: 38px;
+   left: -5px;
+   width: 45%;
+}
+
+.tooltipPlacementZ {
+   position: absolute;
+   top: 162px;
+}
+
+.tooltipPlacementY {
+   position: absolute;
+   top: 38px;
+   right: -5px;
+   width: 45%;
+}
+
+.tooltipPlacementY1 {
+   position: absolute;
+   bottom: 38px;
+   right: 0px;
+   width: 45%;
+}
+
+.tooltiptext {
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   background-color: black;
+   color: white;
+}
+
+.tooltiptext1 {
+   position: relative;
+   background-color: black;
+   color: white;
+}

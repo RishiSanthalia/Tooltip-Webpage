@@ -1,0 +1,70 @@
+label{
+    font-size: 8px;
+    font-weight: 500;
+}
+.setButtons option{
+    width: 100px;
+}
+#target{
+    width: 100%;
+    margin: 4px 0px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    font-size: 8px;
+    /* height: 15px; */
+    padding: 1px;
+}
+
+#tooltipSize{
+    width: 82%;
+    margin: 4px 0px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    font-size: 8px;
+}
+#tooltipSize1{
+    width: 85%;
+    margin: 4px 0px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    font-size: 8px;
+}
+.dimensions{
+    display: flex;
+    flex-direction: row;
+}
+#toolStyle{
+    width: 92%;
+    margin: 4px 0px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    font-size: 8px;
+}
+#textLabel{
+    width: 98%;
+    margin: 4px 0px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    font-size: 8px;
+}
+
+.buttonStyle{
+    align-items: center;
+    justify-content: center;
+    
+}
+.setPadding{
+    margin-left: 14px;
+}
+
+.buttonStyle button{
+    margin: 4px 0px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    font-size: 8px;
+}
+
+.setArrow{
+    margin-left: 5px;
+}
+
