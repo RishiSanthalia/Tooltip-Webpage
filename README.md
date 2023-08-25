@@ -38,5 +38,7 @@ Welcome to the Tooltip Frontend App! This application allows you to create and p
 
 ## Screenshots
 
-![image](https://github.com/RishiSanthalia/Tooltip-Webpage/assets/113021530/5b4e008b-19db-40c6-8079-01681d1b5f8e)
-![image](https://github.com/RishiSanthalia/Tooltip-Webpage/assets/113021530/fb0f8bf9-c19d-49e9-8f9c-1aa93b114540)
+![image](https://github.com/RishiSanthalia/Tooltip-Webpage/assets/113021530/530b50e5-ab90-446b-bdd5-c8147d266271)
+![image](https://github.com/RishiSanthalia/Tooltip-Webpage/assets/113021530/22f948e0-a277-41e0-863a-918dcc67171e)
+
+
