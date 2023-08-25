@@ -1,6 +1,6 @@
 .App {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   
 }
 
@@ -9,6 +9,8 @@
 }
 
 .right-panel {
+  margin-right: 280px;
+  margin-top: 40px;
   padding: 20px;
   display: flex;
   flex-direction: column;

@@ -1,32 +1,32 @@
 .tooltipPlacementX {
    position: absolute;
-   top: 38px;
+   top: 60px;
    left: 0px;
    width: 45%;
 }
 
 .tooltipPlacementX1 {
    position: absolute;
-   bottom: 38px;
+   bottom: 60px;
    left: -5px;
    width: 45%;
 }
 
 .tooltipPlacementZ {
    position: absolute;
-   top: 162px;
+   top: 250px;
 }
 
 .tooltipPlacementY {
    position: absolute;
-   top: 38px;
+   top: 60px;
    right: -5px;
    width: 45%;
 }
 
 .tooltipPlacementY1 {
    position: absolute;
-   bottom: 38px;
+   bottom: 60px;
    right: 0px;
    width: 45%;
 }

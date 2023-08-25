@@ -10,7 +10,7 @@ const TooltipForm = ({ onTooltipSubmit }) => {
     const [background, setbackground] = useState('');
     const [cornerRadius, setcornerRadius] = useState('3');
     const [tooltipWidth, settooltipWidth] = useState('');
-    const [arrowWidth, setarrowWidth] = useState('3');
+    const [arrowWidth, setarrowWidth] = useState('6');
     const [arrowHeigth, setarrowHeigth] = useState('3');
 
     const handleSubmit = (e) => {
@@ -22,15 +22,15 @@ const TooltipForm = ({ onTooltipSubmit }) => {
     };
 
     const container = {
-        margin: '25px 0',
-        padding: '30px',
+        margin:'40px 10px 10px 120px',
+        padding: '0px 40px',
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
         justifyContent: 'center',
-        height: '250px',
-        width: '300px', 
-        fontSize: '12px',
+        height: '550px',
+        width: '65%', 
+        fontSize: '16px',
         background: '#F5F5F5',
         borderRadius: '23px',
     }

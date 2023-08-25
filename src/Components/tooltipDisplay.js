@@ -7,10 +7,10 @@ const TooltipDisplay = ({ selectedElement, tooltipText, tooltipSize, padding, te
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
-    height: '300px',
-    width: '160px',
+    height: '500px',
+    width: '270px',
     margin: '20px',
-    border: '8px solid black',
+    border: '10px solid black',
     borderRadius: '29px',
     background: '#b3b3b3'
   };
@@ -20,7 +20,7 @@ const TooltipDisplay = ({ selectedElement, tooltipText, tooltipSize, padding, te
     flexDirection: 'column',
     flexWrap: 'wrap',
     justifyContent: 'space-between',
-    width: '80%',
+    width: '90%',
     height: '100%',
     margin: '10px'
   };
@@ -50,7 +50,7 @@ const TooltipDisplay = ({ selectedElement, tooltipText, tooltipSize, padding, te
   const buttonWrapperStyle1 = {
     display: 'flex',
     justifyContent: 'space-between',
-    width: '80%',
+    width: '90%',
     height: '100%',
     alignItems: 'flex-end',
     margin: '10px',
@@ -58,7 +58,7 @@ const TooltipDisplay = ({ selectedElement, tooltipText, tooltipSize, padding, te
   };
   const buttonWrapperStyle2 = {
     display: 'flex',
-    width: '80%',
+    width: '90%',
     height: '100%',
     alignItems: 'center',
     flexDirection: 'column'
@@ -67,7 +67,7 @@ const TooltipDisplay = ({ selectedElement, tooltipText, tooltipSize, padding, te
   const buttonStyle = {
     border: '0px solid white',
     borderRadius: '4px',
-    fontSize: '7px',
+    fontSize: '16px',
     textAlign: 'center',
     width: '30%',
     height: '100%',
