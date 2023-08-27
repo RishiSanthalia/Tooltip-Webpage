@@ -81,7 +81,7 @@ const TooltipDisplay = ({ selectedElement, tooltipText, tooltipSize, padding, te
     background: background,
     borderRadius: cornerRadius + 'px',
     position: 'relative',
-    // width: tooltipWidth + 'px',
+    width: tooltipWidth + 'px',
     alignItems: 'center',
     justifyContent: 'center',
     margin: '2px 6px',
